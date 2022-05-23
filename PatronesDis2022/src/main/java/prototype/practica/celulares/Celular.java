@@ -120,7 +120,7 @@ public class Celular implements ICelular {
         return clone;
     }
     public void showInfo(){
-        System.out.println(" \n ****  Information de la Entrada *** \n");
+        System.out.println(" \n ****  Information del Celular *** \n");
         System.out.println("El tamaño es: " + tamano);
         System.out.println("El cpu es: " + cpu);
         System.out.println("Las memoria son de: " + memory);
