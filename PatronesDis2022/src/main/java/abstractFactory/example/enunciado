@@ -1,0 +1,14 @@
+IDE
+
+se tienen diferentes tipos de IDE de desarrollo, se requiere instanciar estos
+objetos y que muestren sus caracteristicas:
+
+IntelliJ IDEA
+Eclipse
+VisualCode
+----------------
+   IDE -----> Interface
+     IntelliJIdea --> Concrete1
+     Eclipse  ---> Concrete2
+     VisualCode    ----> Concrete3
+  FactoryIDE ---> clase que controla la creacion
