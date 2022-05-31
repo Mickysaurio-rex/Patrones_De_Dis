@@ -5,7 +5,6 @@ public class Auto {
     private String modelo;
     private int nroDeAsientos;
     private String tipo;
-    public Auto(){}
 
     public Auto(int costo, String modelo, int nroDeAsientos, String tipo) {
         this.costo = costo;
