@@ -1,0 +1,11 @@
+Se tiene un repositorio en Github que almacena los cambios de un proyecto que se desarrolla en Java.
+Los desarrolladores quieren versionar los cambios de las historias de usuario cuando esten terminadas no de cada
+commit.
+
+* Tener 6 comits donde el 2do y el 5to commit son los referentes a las historias terminadas.
+utilizar el formato de commit de GitHub
+
+- Cartaker --> Github
+- Originator --> Git
+- Memento --> Commit
+- ConcreteObject --> codigo
